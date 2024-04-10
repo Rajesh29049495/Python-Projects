@@ -1,0 +1,6 @@
+pdf2image
+pytesseract
+opencv_python
+Pillow
+fastapi[all]
+pytest
